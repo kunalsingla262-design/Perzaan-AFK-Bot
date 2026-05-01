@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "HerosSMP-Mbn3.aternos.me",
+    "port": 49350,
     "version": "1.21.1"
   },
   "position": {
